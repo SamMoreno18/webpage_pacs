@@ -10,7 +10,7 @@
         }
     </style>
 
-    <div class="container py-3">
+    <div class="container py-2 py-lg-4">
 
         <div class="row">
 
@@ -36,7 +36,11 @@
                 <div class="dropdown px-1 float-start" style="background: #1C345B; color:white ">
 
                     <a id="dropdownSubMenu1" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                        class="nav-link dropdown-toggle text-uppercase"><span class="d-lg-block d-none">Categorias</span><i class="ps-2 fas fa-th-list"></i></a>
+                        class="nav-link dropdown-toggle text-uppercase">
+                        <span class="d-lg-block d-none">Categorias<i class="ps-lg-2 fas fa-th-list"></i></span>
+                        <span class="d-lg-none d-block"><i class="fas fa-th-list"></i></span>
+
+                    </a>
 
                     <ul aria-labelledby="dropdownSubMenu1" class="dropdown-menu border-0 shadow">
 
@@ -309,7 +313,7 @@
                     </a>
 
                     <div class="small border float-star ps-2 pe-5 w-100">
-                        Tu cesta <span>0</span> MXN $ <span>0</span>
+                        Tu cesta <span>0</span><br> MXN $ <span>0</span>
                     </div>
 
                 </div>
