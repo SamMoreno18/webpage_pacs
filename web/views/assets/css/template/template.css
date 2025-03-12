@@ -1,0 +1,44 @@
+
+body{
+    font-family: "Ubuntu", sans-serif; 
+}
+
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+ul,ol {
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none !important;
+    color: inherit !important;
+
+}
+
+.main-footer{
+    border-top: 0 !important;
+}
+
+
+.topColor{
+    background: black; 
+    color: white
+}
+
+
+.templateColor{
+    background: #1C345B; 
+    color:white; 
+}
+
+
+ 
