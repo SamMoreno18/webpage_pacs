@@ -1,3 +1,3 @@
 <?php
 
-echo "<h1> esta mamada es la api</h1>";
+echo "<h1>Hola soy la api</h1>";

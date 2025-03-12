@@ -1,6 +1,3 @@
-
-
-
 <div class="container-fluid bg-dark small">
 
     <div class="container py-5 text-light">

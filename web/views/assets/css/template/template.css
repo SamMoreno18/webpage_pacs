@@ -1,44 +1,34 @@
-
 body{
-    font-family: "Ubuntu", sans-serif; 
+  font-family: 'Ubuntu', sans-serif;
 }
 
 
 .dropdown-toggle::after {
-    display: none !important;
+  display: none !important;
 }
 
-ul,ol {
-    padding: 0;
-    list-style: none;
-    text-decoration: none;
+ul, ol{
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
 }
 
-
-a:link,
-a:visited,
-a:hover,
-a:active {
+a:link, a:visited,  a:hover, a:active{
     text-decoration: none !important;
     color: inherit !important;
+}
+
+.topColor{
+  background: black; 
+  color:white;
+}
+
+.templateColor, .templateColor:hover, a.templateColor{
+  background: #1C345B ; 
+  color:white ;
 
 }
 
 .main-footer{
-    border-top: 0 !important;
+  border-top: 0 !important;
 }
-
-
-.topColor{
-    background: black; 
-    color: white
-}
-
-
-.templateColor{
-    background: #1C345B; 
-    color:white; 
-}
-
-
- 

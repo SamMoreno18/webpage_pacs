@@ -1,22 +1,32 @@
-<?php
+<?php 
 
-class templateController
-{
-    public function index()
-    {
-        include "views/template.php";
-    }
+class TemplateController{
 
-    /*Ruta principal o dominio de sitio*/ 
-    
+	/*=============================================
+	Traemos la Vista Principal de la plantilla
+	=============================================*/
 
-    static public function path(){
-        if(!empty($_SERVER["HTTPS"]) && ("on" == $_SERVER["HTTPS"])){
-            return "https://".$_SERVER["SERVER_NAME"]."/";
-        }
-        else {
-            return "http://".$_SERVER["SERVER_NAME"]."/";
-        }
+	public function index(){
 
-    }
+		include "views/template.php";
+	}
+
+	/*=============================================
+	Ruta Principal o Dominio del sitio
+	=============================================*/
+
+	static public function path(){
+
+		if(!empty($_SERVER["HTTPS"]) && ("on" == $_SERVER["HTTPS"])){
+
+			return "https://".$_SERVER["SERVER_NAME"]."/";
+
+		}else{
+
+			return "http://".$_SERVER["SERVER_NAME"]."/";
+		}
+
+	}
+
+
 }
