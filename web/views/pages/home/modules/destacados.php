@@ -31,7 +31,7 @@
 
         <div class="clearfix pt-3 pb-0 px-3">
 
-            <h3 class="float-start text-uppercase">Mas Vistos</h3>
+            <h3 class="float-start text-uppercase">Destacados</h3>
 
             <span class="float-end">
 

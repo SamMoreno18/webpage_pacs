@@ -2,6 +2,8 @@
 
 $path = TemplateController::path();
 
+// echo $path;
+
 ?>
 
 <!DOCTYPE html>

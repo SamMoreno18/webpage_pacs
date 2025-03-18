@@ -290,7 +290,7 @@
     </div>
 
 
-    <!-- contenedor del carrito de busquedas -->
+    <!-- contenedor del carrito de compras -->
     <div class="col-12 col-lg-3 col-xl-2 mt-1 px-3 px-lg-0 ">
 
         <div class="my-2 my-lg-0 d-flex justify-content-center ">
