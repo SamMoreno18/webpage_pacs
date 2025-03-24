@@ -57,7 +57,7 @@
 
                     <figure class="imgProduct">
 
-                        <img src="views\assets\img\products\perifericos\g733.jpg" alt="">
+                        <img src="views\assets\img\products\perifericos\g733.jpg" class="img-fluid" style="width: 250px; height: 250px;">
 
                     </figure>
                     <h5><small class="text-muted">Logitech G733 </small></h5>
@@ -67,7 +67,7 @@
 
                 <h6>
                     <a href="#">
-                    <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+                        <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
                     </a>
                 </h6>
 
@@ -77,12 +77,12 @@
                     <span class="float-end">
                         <div class="btn-group btn-group-sm">
 
-                            <button type="button" class="btn btn-light-border"> 
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fa fa-shopping-cart"></i>
                             </button>
 
-                            
-                            <button type="button" class="btn btn-light-border"> 
+
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fas fa-eye"></i>
                             </button>
 
@@ -93,8 +93,8 @@
                 </div>
 
 
-            
-            
+
+
             </div>
 
             <div class="col px-3 py-2 py-lg-0">
@@ -103,7 +103,7 @@
 
                     <figure class="imgProduct">
 
-                        <img src="views\assets\img\products\perifericos\g733.jpg" alt="">
+                        <img src="views\assets\img\products\perifericos\g502.jpg" class="img-fluid" style="width: 250px; height: 250px;">
 
                     </figure>
                     <h5><small class="text-muted">Logitech G733 </small></h5>
@@ -113,7 +113,7 @@
 
                 <h6>
                     <a href="#">
-                    <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+                        <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
                     </a>
                 </h6>
 
@@ -123,12 +123,12 @@
                     <span class="float-end">
                         <div class="btn-group btn-group-sm">
 
-                            <button type="button" class="btn btn-light-border"> 
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fa fa-shopping-cart"></i>
                             </button>
 
-                            
-                            <button type="button" class="btn btn-light-border"> 
+
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fas fa-eye"></i>
                             </button>
 
@@ -139,8 +139,8 @@
                 </div>
 
 
-            
-            
+
+
             </div>
 
             <div class="col px-3 py-2 py-lg-0">
@@ -149,7 +149,7 @@
 
                     <figure class="imgProduct">
 
-                        <img src="views\assets\img\products\perifericos\g733.jpg" alt="">
+                        <img src="views\assets\img\products\perifericos\keypadAsus.jpg" class="img-fluid" style="width: 250px; height: 250px;">
 
                     </figure>
                     <h5><small class="text-muted">Logitech G733 </small></h5>
@@ -159,7 +159,7 @@
 
                 <h6>
                     <a href="#">
-                    <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+                        <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
                     </a>
                 </h6>
 
@@ -169,12 +169,12 @@
                     <span class="float-end">
                         <div class="btn-group btn-group-sm">
 
-                            <button type="button" class="btn btn-light-border"> 
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fa fa-shopping-cart"></i>
                             </button>
 
-                            
-                            <button type="button" class="btn btn-light-border"> 
+
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fas fa-eye"></i>
                             </button>
 
@@ -185,8 +185,8 @@
                 </div>
 
 
-            
-            
+
+
             </div>
 
             <div class="col px-3 py-2 py-lg-0">
@@ -195,7 +195,7 @@
 
                     <figure class="imgProduct">
 
-                        <img src="views\assets\img\products\perifericos\g733.jpg" alt="">
+                        <img src="views\assets\img\products\perifericos\g733.jpg" class="img-fluid" style="width: 250px; height: 250px;">
 
                     </figure>
                     <h5><small class="text-muted">Logitech G733 </small></h5>
@@ -205,7 +205,7 @@
 
                 <h6>
                     <a href="#">
-                    <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+                        <span class="badge badgeNew bg-warning text-white mt-1 p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
                     </a>
                 </h6>
 
@@ -215,12 +215,12 @@
                     <span class="float-end">
                         <div class="btn-group btn-group-sm">
 
-                            <button type="button" class="btn btn-light-border"> 
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fa fa-shopping-cart"></i>
                             </button>
 
-                            
-                            <button type="button" class="btn btn-light-border"> 
+
+                            <button type="button" class="btn btn-light-border">
                                 <i class="fas fa-eye"></i>
                             </button>
 
@@ -231,9 +231,197 @@
                 </div>
 
 
-            
-            
+
+
             </div>
+
+
+        </div>
+
+        <!-- LIST -->
+
+        <div class="row" style="display: none;">
+
+            <div class="media border-bottom px-3 pt-4 pb-3 pb-lg-2">
+
+
+                <figure class="imgProduct">
+
+                    <img src="views\assets\img\products\perifericos\g733.jpg" class="img-fluid" style="width:150px">
+
+                </figure>
+
+                <div class="media-body ps-3">
+
+                    <h5><small class="text-muted">Logitech G733 </small></h5>
+
+                    <span class="badge badgeNew bg-warning text-white p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+
+
+
+                    <p>Aqui a ver que mamada se me ocurre ponerle por mientras al products</p>
+
+
+                    <div class="clearfix">
+
+                        <h5 class="float-start text-uppercase text-muted"><small>3,499</small><small> $</small></h5>
+                        <span class="float-end">
+                            <div class="btn-group btn-group-sm">
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+
+
+
+                            </div>
+                        </span>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="media border-bottom px-3 pt-4 pb-3 pb-lg-2">
+
+
+                <figure class="imgProduct">
+
+                    <img src="views\assets\img\products\perifericos\g733.jpg" class="img-fluid" style="width:150px">
+
+                </figure>
+
+                <div class="media-body ps-3">
+
+                    <h5><small class="text-muted">Logitech G733 </small></h5>
+
+                    <span class="badge badgeNew bg-warning text-white p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+
+
+
+                    <p>Aqui a ver que mamada se me ocurre ponerle por mientras al products</p>
+
+
+                    <div class="clearfix">
+
+                        <h5 class="float-start text-uppercase text-muted"><small>3,499</small><small> $</small></h5>
+                        <span class="float-end">
+                            <div class="btn-group btn-group-sm">
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+
+
+                            </div>
+                        </span>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="media border-bottom px-3 pt-4 pb-3 pb-lg-2">
+
+
+                <figure class="imgProduct">
+
+                    <img src="views\assets\img\products\perifericos\g733.jpg" class="img-fluid" style="width:150px">
+
+                </figure>
+
+                <div class="media-body ps-3">
+
+                    <h5><small class="text-muted">Logitech G733 </small></h5>
+
+                    <span class="badge badgeNew bg-warning text-white p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+
+
+
+                    <p>Aqui a ver que mamada se me ocurre ponerle por mientras al products</p>
+
+
+                    <div class="clearfix">
+
+                        <h5 class="float-start text-uppercase text-muted"><small>3,499</small><small> $</small></h5>
+                        <span class="float-end">
+                            <div class="btn-group btn-group-sm">
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+
+
+
+                            </div>
+                        </span>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="media border-bottom px-3 pt-4 pb-3 pb-lg-2">
+
+
+                <figure class="imgProduct">
+
+                    <img src="views\assets\img\products\perifericos\g733.jpg" class="img-fluid" style="width:150px">
+
+                </figure>
+
+                <div class="media-body ps-3">
+
+                    <h5><small class="text-muted">Logitech G733 </small></h5>
+
+                    <span class="badge badgeNew bg-warning text-white p-2">Agregar <i class="fa fa-shopping-cart"></i></span>
+
+
+
+                    <p>Aqui a ver que mamada se me ocurre ponerle por mientras al products</p>
+
+
+                    <div class="clearfix">
+
+                        <h5 class="float-start text-uppercase text-muted"><small>3,499</small><small> $</small></h5>
+                        <span class="float-end">
+                            <div class="btn-group btn-group-sm">
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+
+
+                                <button type="button" class="btn btn-light-border">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+
+
+
+                            </div>
+                        </span>
+                    </div>
+                </div>
+
+
+            </div>
+
+
 
 
         </div>

@@ -21,9 +21,9 @@
 
                         <a href="">
 
-                            <a class="my-lg-3 btn text text-uppercase templateColor border-0">
-                                Ver Producto
-                            </a>
+                            <button class="my-lg-3 btn text text-uppercase templateColor border-0">
+                                Ver putas
+                            </button>
                         </a>
 
 
